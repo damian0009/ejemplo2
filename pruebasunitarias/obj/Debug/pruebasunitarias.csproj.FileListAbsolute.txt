@@ -1,0 +1,6 @@
+c:\users\osvaldo\documents\visual studio 2015\Projects\pruebasunitarias\pruebasunitarias\bin\Debug\pruebasunitarias.exe.config
+c:\users\osvaldo\documents\visual studio 2015\Projects\pruebasunitarias\pruebasunitarias\obj\Debug\pruebasunitarias.csprojResolveAssemblyReference.cache
+C:\Users\osvaldo\Documents\Visual Studio 2015\Projects\pruebasunitarias\pruebasunitarias\bin\Debug\pruebasunitarias.exe
+C:\Users\osvaldo\Documents\Visual Studio 2015\Projects\pruebasunitarias\pruebasunitarias\bin\Debug\pruebasunitarias.pdb
+C:\Users\osvaldo\Documents\Visual Studio 2015\Projects\pruebasunitarias\pruebasunitarias\obj\Debug\pruebasunitarias.exe
+C:\Users\osvaldo\Documents\Visual Studio 2015\Projects\pruebasunitarias\pruebasunitarias\obj\Debug\pruebasunitarias.pdb
